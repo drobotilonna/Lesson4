@@ -1,0 +1,25 @@
+.first{
+    color: rgb(170, 12, 12);
+    font-size: 40px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.second{
+    color: royalblue;
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+.third{
+    color: rgb(6, 61, 30);
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+}
+.fourth{
+    color: rgb(255, 242, 62);
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+}
+.fifth{
+    color: rgb(223, 134, 0);
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
